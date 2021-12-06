@@ -1,3 +1,5 @@
-# Stream Template Repository
+# RS03AXPS-SF03A-2D-PHSENA301-streamed-phsen_thermistor_voltage
 
-This repository is a template for all the other repositories.
+Stream Type: Engineering<br>
+Stream Content: Thermistor Voltage Data<br>
+Instrument Group Code: PHSEN<br>
