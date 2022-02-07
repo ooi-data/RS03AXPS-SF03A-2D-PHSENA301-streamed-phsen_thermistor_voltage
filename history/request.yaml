@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: RS03AXPS-SF03A-2D-PHSENA301-streamed-phsen_thermistor_voltage
-last_request: '2022-01-21T18:40:45.041171Z'
+last_request: '2022-02-07T18:01:01.144559Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXPS-SF03A-2D-PHSENA301-streamed-phsen_thermistor_voltage/main/history/response.json
 status: discontinued
